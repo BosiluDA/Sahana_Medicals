@@ -48,6 +48,6 @@ A full pharmacy management system for handling medicine inventory, orders, presc
 - PHP 7.4+
 - MySQL 5.7+ / MariaDB 10.3+
 - Apache (or Nginx) with PHP enabled
-- `uploads/` and `uploads/prescriptions/` writable
+
 
    
