@@ -1,6 +1,6 @@
 # PPA – Sahana Medicals
 
-A full pharmacy management system for handling medicine inventory, orders, prescriptions, billing, and reporting.
+A full pharmacy management system for handling medicine inventory, orders, prescriptions, billing and reporting.
 
 ---
 
